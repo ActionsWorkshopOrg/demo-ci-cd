@@ -38,4 +38,4 @@ Demo repository for using GitHub Actions in a CI/CD context.
 1. If the workflow was run in this repository, perform the following steps:
     - Delete any branch protections rules created
     - Ensure any PRs created are closed/merged
-
+end of file
